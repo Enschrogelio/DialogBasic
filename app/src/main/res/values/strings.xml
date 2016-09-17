@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogBasic</string>
+    <string name="accept">Aceptar</string>
+    <string name="pass">Password</string>
+    <string name="user">Usuario</string>
+    <string name="text1">Ingrese el usuario y contraseña</string>
+</resources>
